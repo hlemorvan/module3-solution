@@ -1,2 +1,1 @@
-# module3-solution
-module3-solution
+browser-sync start --server --files "*.html, css/*.css"
